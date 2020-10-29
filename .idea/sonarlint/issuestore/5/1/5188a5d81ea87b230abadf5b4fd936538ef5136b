@@ -1,0 +1,29 @@
+
+C
+java:S1144"-Remove this unused private "printOut" method.(×„¦Û
+F
+java:S1481"0Remove this unused "listNumbers" local variable.(öãé
+K
+java:S1481
+"0Remove this unused "listObjects" local variable.(î«ıÙøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(×„¦Û
+E
+java:S3740"/Provide the parametrized type for this generic.(’ù”ö
+Q
+java:S1854";Remove this useless assignment to local variable "listRaw".(’ù”ö
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ô¤„å8¨Á´¥Ì.
+Z
+java:S1854
+"?Remove this useless assignment to local variable "listObjects".(î«ıÙøÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "listNumbers".(öãé
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú“Üİ
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¨Á´¥Ì.
+I
+java:S1481".Remove this unused "listWords" local variable.(ò”¢§ÿÿÿÿÿ
+B
+java:S1481",Remove this unused "listRaw" local variable.(’ù”ö
+X
+java:S1854"=Remove this useless assignment to local variable "listWords".(ò”¢§ÿÿÿÿÿ
