@@ -1,4 +1,4 @@
-package com.cindyk.test.chainofresponsibility;
+package com.cindyk.test.designpatterns.chainofresponsibility;
 
 public abstract class Handler {
 	Handler successor;
@@ -8,4 +8,5 @@ public abstract class Handler {
 	}
 
 	public abstract void handleHogwartsDuty(Duty duty);
+
 }

@@ -1,4 +1,4 @@
-package com.cindyk.test.chainofresponsibility;
+package com.cindyk.test.designpatterns.chainofresponsibility;
 
 public class Headmaster extends Handler {
 	private boolean attendance;

@@ -1,4 +1,4 @@
-package com.cindyk.test.chainofresponsibility;
+package com.cindyk.test.designpatterns.chainofresponsibility;
 
 public class Housemaster extends Handler {
 	private boolean attendance;

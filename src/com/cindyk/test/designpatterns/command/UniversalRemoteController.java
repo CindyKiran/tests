@@ -1,4 +1,4 @@
-package com.cindyk.test.command;
+package com.cindyk.test.designpatterns.command;
 
 //https://www.geeksforgeeks.org/command-pattern/
 //invoker

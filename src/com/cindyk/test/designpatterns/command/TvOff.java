@@ -1,4 +1,4 @@
-package com.cindyk.test.command;
+package com.cindyk.test.designpatterns.command;
 
 //concrete command classes
 public class TvOff implements MachineCommand {
