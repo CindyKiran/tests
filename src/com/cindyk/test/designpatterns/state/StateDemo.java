@@ -1,5 +1,9 @@
 package com.cindyk.test.designpatterns.state;
 
+/**
+ * Is actually same as strategy pattern. But difference is that with state pattern, it is also possible
+ * that other states know about each other, while with strategy pattern you do not want that.
+ */
 public class StateDemo {
 	public static void main(String[] args) {
 		WeatherCondition weather = new WeatherCondition();
