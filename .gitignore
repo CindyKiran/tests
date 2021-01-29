@@ -20,7 +20,10 @@ target/
 *.iws
 *.iml
 *.ipr
+*.pb
+*.xml
 /out
+index.pb
 
 ### NetBeans ###
 /nbproject/private/
